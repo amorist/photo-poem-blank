@@ -1,0 +1,3 @@
+interface:
+  display_name: "照片填空诗"
+  short_description: "把任意一张照片理解出诗意，生成数字填空小诗视频并配乐"
